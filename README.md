@@ -7,7 +7,6 @@
 - [Codely.tv: Principios SOLID Aplicados](https://pro.codely.tv/library/principios-solid-aplicados/77070/path/) (Spanish)
 - [SafariBooks Recorded Training:
 SOLID Principles of Object-Oriented and Agile Design](https://learning.oreilly.com/live-training/courses/solid-principles-of-object-oriented-and-agile-design/0636920239789/)
-- [Clean Code & SOLID Examples in Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 ### Clean Code
 - [SafariBooks: Clean Code](https://learning.oreilly.com/library/view/clean-code/9780136083238/)
