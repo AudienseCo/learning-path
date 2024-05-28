@@ -1,4 +1,6 @@
 # Audiense Core Learning Path
+>📢 This learning path is no longer used at Audiense. It has evolved into our [Apprentice Program](https://engineering.audiense.com/introducing-our-apprentice-program-fca7e73150c1), designed to facilitate skills liquidity within our organization. This program is structured to help develop the skills and competencies needed to achieve our team’s objectives. We have made the program public through this [free Notion template](https://www.notion.so/templates/apprentice-program).
+
 
 ## Fundamentals
 
